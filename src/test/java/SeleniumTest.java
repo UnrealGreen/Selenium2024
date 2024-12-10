@@ -22,6 +22,7 @@ public class SeleniumTest {
 
     @BeforeTest
     public  static void Setup(){
+        //Test
 
 
         options = new ChromeOptions();
